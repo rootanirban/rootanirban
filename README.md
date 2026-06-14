@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Anidas-crypto">
-    <img src="https://komarev.com/ghpvc/?username=anidas-crypto&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/rootanirban">
+    <img src="https://komarev.com/ghpvc/?username=rootanirban&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/anidas-crypto">
+  <a href="https://linkedin.com/in/rootanirban">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://x.com/Anirban83642331">
@@ -81,16 +81,16 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Anidas-crypto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anidas-crypto&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Anidas-crypto's GitHub Stats" />
+  <a href="https://github.com/rootanirban">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rootanirban&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="rootanirban's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Anidas-crypto&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Anidas-crypto's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=rootanirban&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="rootanirban's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Anidas-crypto&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anirban Das's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=rootanirban&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anirban Das's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anidas-crypto&theme=tokyonight&radius=10" alt="Anidas-crypto's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=rootanirban&theme=tokyonight&radius=10" alt="rootanirban's Activity Graph" />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -160,12 +160,12 @@ I currently do not have any formal work experience, but I am actively looking fo
 
 
 <p align="center">
-  <a href="https://github.com/Anidas-crypto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anidas-crypto&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/rootanirban">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rootanirban&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Anidas-crypto)
+![Top language](https://stats.pphat.top/languages?username=rootanirban)
 <br/>
 
 ## 🐍 Contribution Snake
@@ -173,11 +173,11 @@ I currently do not have any formal work experience, but I am actively looking fo
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Anidas-crypto/Anidas-crypto/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/rootanirban/rootanirban/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Anidas-crypto/Anidas-crypto/output/github-contribution-grid-snake.svg" />
+      srcset="https://raw.githubusercontent.com/rootanirban/rootanirban/output/github-contribution-grid-snake.svg" />
     <img 
-      src="https://raw.githubusercontent.com/Anidas-crypto/Anidas-crypto/output/github-contribution-grid-snake.svg" />
+      src="https://raw.githubusercontent.com/rootanirban/rootanirban/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
