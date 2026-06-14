@@ -1,0 +1,33 @@
+name: Sync Capsule Colors
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate random seed
+        run: |
+          SEED=$RANDOM
+          sed -i "s/seed=[^&\"]*/seed=$SEED/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update capsule colors" || echo "No changes"
+
+      - name: Push changes
+        run: git push
