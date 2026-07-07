@@ -103,7 +103,7 @@ I currently do not have any formal work experience, but I am actively looking fo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://cdn.corenexis.com/files/c/4676421720.png" alt="C" width="45">
+  <img src="requirements/c_language.png" alt="C" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
 </p>
