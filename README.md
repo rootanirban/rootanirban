@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&seed=2968&text=Anirban%20Das&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20Developer%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&seed=15772&text=Anirban%20Das&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Learner%20%7C%20Developer%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&textBg=false"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=I'm+a+Cybersecurity+Learner;I'm+a+Gamer;I'm+a+Software+Developer"/>
@@ -184,5 +184,5 @@ I currently do not have any formal work experience, but I am actively looking fo
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&seed=2968&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,29&seed=15772&section=footer"/>
 </div>
